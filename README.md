@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Beto
 
-Find me at 
-[betopereira.com](betopereira.com)
+Find me at  
+[betopereira.com](betopereira.com)  
 [Linkedin](https://www.linkedin.com/in/betopereira/)
 
 - 🔭 I’m currently studying System Information at UNICSUL college.
